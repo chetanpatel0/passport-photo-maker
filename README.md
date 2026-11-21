@@ -2,7 +2,7 @@
 
 **Free, private passport and visa photos, made in your browser.**
 
-🔗 **Live app:** https://YOUR-USERNAME.github.io/YOUR-REPO/
+🔗 **Live app:** [https://YOUR-USERNAME.github.io/YOUR-REPO/](https://chetanpatel0.github.io/passport-photo-maker/)
 
 Upload a selfie and the app finds your face, removes the background, sizes your
 head to the selected document rules and prepares a print-ready sheet. All
