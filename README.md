@@ -64,7 +64,4 @@ so allow a few seconds on mobile.
   submitting.
 - This repository contains the self-contained build, not the development source.
 
-## License
 
-Add a `LICENSE` file if you want to grant others permission to reuse the code.
-Third-party libraries and models retain their own licenses.
